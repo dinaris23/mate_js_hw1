@@ -1,2 +1,1 @@
-# mate_js_hw1
-Home work #1
+[Try the code](https://dinaris23.github.io/mate_js_hw1/)
